@@ -1,4 +1,6 @@
 ### Hi there 👋
+- :broken_heart: interested in CSS, JavaScript, Vue
+- 🌱 
 <img src="https://cdn.pixabay.com/photo/2020/10/12/22/15/glass-5650335_960_720.jpg" width="30%" height="150px" align="right" >
 <!--
 **yuxiaotu/yuxiaotu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
