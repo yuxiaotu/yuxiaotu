@@ -1,7 +1,5 @@
 <h2 align="center">👋Hi，this yuxiaotu's home</h2>
 
-<p align="center" style="font-weight: 600">My firm tell me i am a maintenance engineer, but a customer service in reality</p>
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuxiaotu&show_icons=true&hide_border=true">
 
 ## 🧐 About
