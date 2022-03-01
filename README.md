@@ -4,8 +4,8 @@
 
 ## 🧐 About
 
-- 👨‍💻 I don't have blog
-- 📫 I am a rookie
+- 👨‍💻 work hard 
+- 📫 life happy
 - 🌱 Languages and Tools: 
 
     <div>
